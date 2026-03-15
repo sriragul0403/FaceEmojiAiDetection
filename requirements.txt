@@ -1,0 +1,5 @@
+numpy==1.23.5
+opencv-python==4.8.1.78
+tensorflow==2.13.0
+flask==2.3.3
+pillow==10.0.1
